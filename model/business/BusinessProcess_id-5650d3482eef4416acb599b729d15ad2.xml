@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwerpen &amp; beheren data service"
+    id="id-5650d3482eef4416acb599b729d15ad2"
+    documentation="Indien er een verandering aan het datamodel van de bronapplicatie behorende bij een data service nodig is, wordt dit via een veranderportfolio-item getraceerd. Dit proces kijkt naar het &quot;Datamodel applicatieomgeving&quot; om te constateren of er een wijziging nodig is aan de Producer kant."/>

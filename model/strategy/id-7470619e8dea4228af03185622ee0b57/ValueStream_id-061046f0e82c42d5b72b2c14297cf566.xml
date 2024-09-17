@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren dataproduct"
+    id="id-061046f0e82c42d5b72b2c14297cf566"
+    documentation="* Integratiepatronen bepalen formulering: Streaming/Bulk/API&#xD;&#xA;* 2 scenarios: dataproduct bestaat, of bestaat niet. Uitzondering: dataproduct gemaakt bij netbeheerder, maar niet opgevoerd in data catalog.&#xD;&#xA;* 2 varianten: data als dataproduct verspreid én maatwerkverzoek (éénmalig data verspreid, voldoet aan datagovernance maar géén dataproduct)."/>

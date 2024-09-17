@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Set"
+    id="id-148fdea1bf1947af8a2954e29c2c1aa5"
+    documentation="- Instancedata (verleden, toekomst, aggregatie)&#xD;&#xA;- Dataset is een logisch model van een dataproduct en bevat de fysieke data."/>

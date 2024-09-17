@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen en beheren dataset"
+    id="id-517c952fc8544b519adf2bea19b160f6"
+    documentation="- Samenwerkingsverband definieert logisch model voor data service&#xD;&#xA;- Netbeheerder implementeerd logisch model van data service&#xD;&#xA;  - Kans dat logisch model van data service overeen komt met intern logisch model van netbeheerder is nihil: er is is een vertaalslag nodig&#xD;&#xA;  - mogelijke procesoptimalisatie: data service bij het modelleren zo dicht mogelijk bij logisch model van netbeheerder houden"/>

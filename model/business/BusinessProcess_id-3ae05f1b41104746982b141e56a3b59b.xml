@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen en testen data service"
+    id="id-3ae05f1b41104746982b141e56a3b59b"
+    documentation="* Wat moet er in dataintegratieomgeving worden aangepast om data service te kunnen gebruiken (configuratie)?&#xD;&#xA;* Testen gebruik data service en bijbehorende data sets (UAT)&#xD;&#xA;* Testen met open/gesloten data is onderdeel van procesuitvoer. Voor open data is de &quot;open dataleveringsovereenkomst&quot; nodig"/>

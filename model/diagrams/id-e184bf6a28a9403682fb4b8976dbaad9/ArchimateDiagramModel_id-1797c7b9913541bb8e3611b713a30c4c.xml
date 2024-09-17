@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E.1.3.2 Veranderportfolio opstellen en bewaken / Roadmap opstellen en bewaken (Capability)"
+    id="id-1797c7b9913541bb8e3611b713a30c4c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-77ad9ed0b2eb4401873794c65ff60f78"
+      targetConnections="id-f57aeea9b44d4806bacd491b2a0ef717">
+    <bounds
+        x="336"
+        y="24"
+        width="169"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-ca802cff91b64a5d83696c1e3af05bf1.xml#id-ca802cff91b64a5d83696c1e3af05bf1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ae43636c37e64c368e08d6417219ab53"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f57aeea9b44d4806bacd491b2a0ef717"
+        source="id-ae43636c37e64c368e08d6417219ab53"
+        target="id-77ad9ed0b2eb4401873794c65ff60f78">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-3d0dc9a77e924d7c9ff331a551bd2a22.xml#id-3d0dc9a77e924d7c9ff331a551bd2a22"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="156"
+        width="841"
+        height="325"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-54f38f90b5d241d3b31027f11002256d.xml#id-54f38f90b5d241d3b31027f11002256d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

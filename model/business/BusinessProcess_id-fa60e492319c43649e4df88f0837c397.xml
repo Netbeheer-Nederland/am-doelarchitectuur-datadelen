@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren credentials en recht bij dataproducers"
+    id="id-fa60e492319c43649e4df88f0837c397"
+    documentation="Gaat om registreren van rechten in API mgr, Service bussen etc.  Dit doet het samenwerkingsverband.&#xD;&#xA;&#xD;&#xA;Dit is een complex vraagstuk: hoe wordt gefedereerde authenticatie en autorisatie ingeregeld?"/>

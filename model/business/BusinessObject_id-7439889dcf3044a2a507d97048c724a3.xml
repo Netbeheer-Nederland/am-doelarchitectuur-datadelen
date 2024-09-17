@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="id-7439889dcf3044a2a507d97048c724a3"
+    documentation="Omvat data voor filteren gerelateerd aan partij (b.v. gemeente), digitale identiteit en wijze van authenticatie.&#xD;&#xA;Omvat token waaruit identificatie, authenticatie en autorisatie voor interactie bevat.&#xD;&#xA;Risico: afnemer wijzigt filterwaarde om zo meer op te kunnen vragen dan bedoeld. Maatregel: wijziging goedkeuren door ?&#xD;&#xA;"/>

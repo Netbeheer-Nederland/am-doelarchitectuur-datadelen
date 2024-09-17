@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker"
+    id="id-03218cc6af5147dd98ab5e5c1417887c"
+    documentation="Faciliteert de uitwisseling van dataproducten tussen producent en consument (IT-verantwoordelijke):&#xD;&#xA;&#xD;&#xA;- Kanaalfunctie&#xD;&#xA;- Loketfunctie&#xD;&#xA;- Identificatie, authenticatie &amp; autorisatie functie&#xD;&#xA;- CRM functie?&#xD;&#xA;- Contract mgt functie?&#xD;&#xA;- Datacashing functie?"/>

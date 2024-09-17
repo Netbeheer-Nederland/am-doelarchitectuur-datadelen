@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Service"
+    id="id-cc9d5aced5bc41188baa84512caf4b4b"
+    documentation="Is een definitie.&#xD;&#xA;Erft eigenschappen over van logische model en voegt toe:&#xD;&#xA;- Integratiepatroon logisch: Query response, Query ..., Publish subscribe/notificatie&#xD;&#xA;- Integratiepatroon technisch (OpenAPI, AVRO, DDL)&#xD;&#xA;- Centraal of decentraal ontsloten &#xD;&#xA;- Kwaliteitsniveau van de data (gedesigned)&#xD;&#xA;- SLA"/>

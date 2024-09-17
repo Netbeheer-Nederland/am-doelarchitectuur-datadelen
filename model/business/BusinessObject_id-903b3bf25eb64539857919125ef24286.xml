@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataproduct"
+    id="id-903b3bf25eb64539857919125ef24286"
+    documentation="Erft eigenschappen over van Data service en voegt toe:&#xD;&#xA;- Aangeven open of gesloten data&#xD;&#xA;- Algemene voorwaarden&#xD;&#xA;  - Algemene voorwaarden&#xD;&#xA;  - Dataproducttypespecifieke voorwaarden (fair use)&#xD;&#xA;  - Dataproductspecifieke voorwaarden (SLA-keuze mogelijkheden door afnemer) (keuze wordt gedaan bij aanvraag en kan alleen worden gedaan bij gesloten data. Open data kent geen keuzeverschillen tussen partijen).&#xD;&#xA;&#xD;&#xA;* Maakt dataproduct"/>
